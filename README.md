@@ -2,6 +2,10 @@ About Me
 
 As a Software Engineer and current student in Computer Science, I am passionate about using technology to grow as a scientist and make a positive impact on the world. With real-world experience on the front end, back end, and testing, I have developed many skills that enable me to be a driving force in whatever position I am put into as an engineer. These skills have allowed me to become a full-time testing engineer at CHG Healthcare, reviewing and testing code daily, as well as being a representative for my team in terms of our testing procedures. Along with my working experience in JavaScript and SQL, I am also proficient in Python, Java, C, and other coding concepts like Machine Learning and Graphics. As an engineer who is dedicated to leadership and communication, I am committed to delivering high-quality work that is driven through teamwork and thorough quality assurance.
 
+Ray Tracer - Graphics
+Creating a ray tracer was all about using Python in order to create a 3D scene wiht light sources, shadows, and multiple different types of material.
+This project required a lot of arithmetic and calculations in order to perfectly calculate the shade of every pixel in the scene. 
+
 Senior Project - Senior Capstone
 
 My senior project was my final assignment in my time at Westminster University. I created a mock website called MusicShare, where users can share their opinions on their favorite albums.
