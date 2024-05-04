@@ -1,8 +1,8 @@
-<h1>Heading level 1</h1>
+<h1>About me</h1>
 
 As a Software Engineer and current student in Computer Science, I am passionate about using technology to grow as a scientist and make a positive impact on the world. With real-world experience on the front end, back end, and testing, I have developed many skills that enable me to be a driving force in whatever position I am put into as an engineer. These skills have allowed me to become a full-time testing engineer at CHG Healthcare, reviewing and testing code daily, as well as being a representative for my team in terms of our testing procedures. Along with my working experience in JavaScript and SQL, I am also proficient in Python, Java, C, and other coding concepts like Machine Learning and Graphics. As an engineer who is dedicated to leadership and communication, I am committed to delivering high-quality work that is driven through teamwork and thorough quality assurance.
 
-Chatroom - Networks
+<h2>Chatroom - Networks</h2>
 
 For this project, I worked as a team to create a chatroom that connects over a local network. 
 Through this, users could connect to the chatroom and give and receive messages. 
@@ -12,7 +12,7 @@ This project taught me how to collaborate and think critically about how to conn
 It also brought up some valuable discussions about how to handle creating user-facing code.
 This can be complicated due to security ethics and data handling. These lessons have helped me in my career when faced with similar issues.
 
-Ray Tracer - Graphics
+<h2>Ray Tracer - Graphics</h2>
 
 Creating a ray tracer was all about using Python in order to create a 3D scene with light sources, shadows, and multiple different types of material.
 For example, the user could say that it wants a medium and small ball with different sizes and materials. 
@@ -21,14 +21,14 @@ The user could also specify the coordinates of the light source(s) if they choos
 This indepndent project required a lot of arithmetic and calculations in order to perfectly calculate the shade of every pixel in the scene. 
 Through this project, my creativity and problem solving skills were put to the test, and I was ultimately able to create an image that I could be proud of.
 
-Senior Project - Senior Capstone
+<h2>Senior Project - Senior Capstone</h2>
 
 My senior project was my final assignment in my time at Westminster University. I created a mock website called MusicShare, where users can share their opinions on their favorite albums. Here, along with a database, users could create an account, make posts similar to Instagram, and friend others to see their posts.
 
 This project taught me how to be creative and think outside of the box, since I had almost complete freedom in choosing what to do for this project. This project also gave me a good glimpse into what buidling a website could look like from start to finish.
 While the website was never released to the public, I still had to think about how my development decisions affect users, particularly when it comes to privacy and user experience. 
 
-kNN - Machine Learning
+<h2>kNN - Machine Learning</h2>
 	
 The kNN machine learning algorithm was one of the last projects for this class, applying nearly everything we have learned 
 in the class in order to apply this algorithm to a data set.
@@ -39,7 +39,7 @@ This assignment not only challenged my critical thinking, but also brought to at
 This is because many machine learning algorithms like these are used to dictate biases in data set.
 Through this assignment, I learned how to mitigate bias in a data set, and apply those strategies to my algorithms in regards to a data set.
 
-Pong Step 3 - Artificial Intelligence
+<h2>Pong Step 3 - Artificial Intelligence</h2>
 	
 Creating a game of Pong and creating a difficult opponent with artificial intelligence was one of the more notable projects of my time at Westminster University. 
 By project completion, my group of two was able to create AI Pong players with varying difficulties and speeds. 
